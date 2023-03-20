@@ -27,3 +27,4 @@ https://github.com/rougier/scientific-visualization-book
 https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 
 基于 numpy 的科学计算案例
+xgsf
